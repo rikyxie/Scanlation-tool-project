@@ -2,7 +2,11 @@
 Scanlation tool project (No name yet)
 
 # Description
-I am following many comic books but many of them stop updated because of many different reasons, such as lack of raws, or lack of man power. Base on the Scanlation Process from Fanlore wiki [https://fanlore.org/wiki/Scanlation_Process], and for my experience, even though scanlation group is always looking for people for all the positions, Editor (typesetting and cleaning is always grouped together as editing) is the most needed position.
+I am following many comic books but many of them stop updated because of many different reasons, such as lack of raws, or lack of man power. Base on the Scanlation Process from Fanlore wiki [https://fanlore.org/wiki/Scanlation_Process], and for my experience, even though scanlation group is always looking for people from all the positions, Editor (typesetting and cleaning is usually grouped together as editing) is the most urgency position to be filled in a scanlation group. Many reasons causing Editor to run away: Learning curve for using tools (mostly Photoshop), time-consuming work for editing text, repeating work for cleaning text.
+
+This project is aim to create a tool for Eitor to simplify to process. It should scan the image and detect the text to be replace.
+
+I think this tool will be more helpful to those indiviual comic translator or small scanlation group that  that
 
 A description of your project follows. A good description is clear, short, and to the point. Describe the importance of your project, and what it does.
 
