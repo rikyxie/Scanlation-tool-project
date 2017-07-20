@@ -6,9 +6,7 @@ I am following many comic books but many of them stop updated because of many di
 
 This project is aim to create a tool for Eitor to simplify to process. It should scan the image and detect the text to be replace.
 
-I think this tool will be more helpful to those indiviual comic translator or small scanlation group that  that
-
-A description of your project follows. A good description is clear, short, and to the point. Describe the importance of your project, and what it does.
+I think this tool will be more helpful to those indiviual comic translator or small scanlation group that lack of man power. The project aims to increase the speed of process instead of quality of finished products.
 
 # Table of Contents
 Optionally, include a table of contents in order to allow other people to quickly navigate especially long or detailed READMEs.
