@@ -2,11 +2,11 @@
 Scanlation tool project (No name yet)
 
 # Description
-I am following many comic books but many of them stop updated because of many different reasons, such as lack of raws, or lack of man power. Base on the Scanlation Process from Fanlore wiki [https://fanlore.org/wiki/Scanlation_Process], and for my experience, even though scanlation group is always looking for people from all the positions, Editor (typesetting and cleaning is usually grouped together as editing) is the most urgency position to be filled in a scanlation group. Many reasons causing Editor to run away: Learning curve for using tools (mostly Photoshop), time-consuming work for editing text, repeating work for cleaning text.
+I am following lots of translated comics but many of them stopped updating by Scanlation group because of vary different reasons, such as lack of raws, or most commonly, lack of manpower. For my experience, even though scanlation groups are always looking for people for all the positions, Editor (typesetting and cleaning is usually grouped together as editing based on the Scanlation Process from Fanlore wiki [https://fanlore.org/wiki/Scanlation_Process]) is the most urgency position needed to be filled in. Editor shortage comes from couple problems for the position: Learning curve for using tools (mostly Photoshop), time-consuming work for editing text, repeating work for cleaning text.
 
-This project is aim to create a tool for Eitor to simplify to process. It should scan the image and detect the text to be replace.
+This project is aiming to make Editor's live easier.
 
-I think this tool will be more helpful to those indiviual comic translator or small scanlation group that lack of man power. The project aims to increase the speed of process instead of quality of finished scanlation.
+I think the project will be helpful to indiviual comic translators or small scanlation groups that lack of manpower.
 
 # Table of Contents
 Optionally, include a table of contents in order to allow other people to quickly navigate especially long or detailed READMEs.
