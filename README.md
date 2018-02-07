@@ -2,7 +2,7 @@
 Scanlation tool project (No name yet)
 
 # Description
-I am following lots of translated comics but many of them were stopped updating by Scanlation group because of vary different reasons, such as lack of raws, or most commonly, lack of manpower. For my experience, even though scanlation groups are always recruiting for all positions, Editor (typesetting and cleaning is usually grouped together as editing based on the Scanlation Process from Fanlore wiki [https://fanlore.org/wiki/Scanlation_Process]) is the most urgency position needed to be filled in. Editor shortage comes from couple downside for the position: Learning curve for using tools (mostly Photoshop), time-consuming work for editing text, repeating work for cleaning text.
+I am following lots of translated comics but many of them were stopped updating by Scanlation group because of vary different reasons, such as lack of raws, or most commonly, lack of manpower. For my experience, even though scanlation groups are always recruiting for all positions, Editor (typesetting and cleaning is usually grouped together as editing based on the Scanlation Process from Fanlore wiki https://fanlore.org/wiki/Scanlation_Process) is the most urgency position needed to be filled in. Editor shortage comes from couple downside for the position: Learning curve for using tools (mostly Photoshop), time-consuming work for editing text, repeating work for cleaning text.
 
 This project is aiming to make Editor's live easier.
 
