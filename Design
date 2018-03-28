@@ -29,6 +29,9 @@ https://mymemory.translated.net/
 OCR Engine
 https://www.google.com/search?q=ocr+engines&oq=ocr+en&aqs=chrome.1.69i57j0l5.2483j0j7&sourceid=chrome&ie=UTF-8
 
+BIMP - example of GIMP plugin
+https://github.com/alessandrofrancesconi/gimp-plugin-bimp/releases
+
 
 Process of Scanlation:
 Start -> Get the Raw -> Typesetting to white out orginial text -> Translate -> Add translated text -> End
