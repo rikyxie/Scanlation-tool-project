@@ -33,8 +33,9 @@ BIMP - example of GIMP plugin
 https://github.com/alessandrofrancesconi/gimp-plugin-bimp/releases
 
 
-Process of Scanlation:
-Start -> Get the Raw -> Typesetting to white out orginial text -> Translate -> Add translated text -> End
+Tranditional Process of Scanlation:
+-> Get the Raw 
+-> typesetting to white out orginial text -> Translate -> Add translated text -> End
 
 Process of propose usage of project:
 -> Open the software 
@@ -45,10 +46,10 @@ Process of propose usage of project:
 -> Micro change on to fit translation into image
 -> Export new image with translation
 -> Repeat above process from "Import image" until whole chapter or book's images finish
--> Save project with translation info (without image to cut the size fo file) 
+-> Save project with translation info (keep images in project file or without images to keep the size of project file low) 
 
 Design ideas:
-1. Page management for chapter or book during translation: I don't see any tool or plugin to help manage between pages, especially when those pages form a comic chapter or book. Created as a project, and save as a file contain all those translation info (Text, position, and etc.)
+1. Page management for chapter or book during translation process between different roles: I don't see any tool or plugin to help manage the process between different roles. Created as a project, and save as a file contain all those translation info (Text, position, and etc.)
 2. Translation typing area for section or bubble: Easy to type and edit later
 3. Automatic adjustment for section or bubble: Japanese word in comic usually type at vertical. Chinese can go vertical as same, but English need to go horizontal. Either way, need to break line
 4. Automatic detect text area
