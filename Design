@@ -33,9 +33,16 @@ BIMP - example of GIMP plugin
 https://github.com/alessandrofrancesconi/gimp-plugin-bimp/releases
 
 
-Tranditional Process of Scanlation:
--> Get the Raw 
--> typesetting to white out orginial text -> Translate -> Add translated text -> End
+Tranditional Scanlation Process:
+-> Get the Raw from Source
+-> Translator get the Raw to translated text
+-> Typesetter get the translate text to insert to Raw
+-> Back to Translator or someone to double-check (if any)
+
+Drawbacks that I want ot improve from Tranditional:
+1. When Typesetter get translated text, need to know the matching area to insert
+2.
+
 
 Process of propose usage of project:
 -> Open the software 
@@ -54,7 +61,8 @@ Design ideas:
 3. Automatic adjustment for section or bubble: Japanese word in comic usually type at vertical. Chinese can go vertical as same, but English need to go horizontal. Either way, need to break line
 4. Automatic detect text area
 5. Automatic translation
+6. Online feature
 
-Drawback:
+Drawbacks:
 1. Since project don't save image, won't know if the import image correc or not
 2. Same image with different size (or different scan resource), will not fit in to translation info
