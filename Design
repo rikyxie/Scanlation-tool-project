@@ -34,9 +34,10 @@ https://github.com/alessandrofrancesconi/gimp-plugin-bimp/releases
 
 
 Tranditional Scanlation Process:
--> Get the Raw from Source
--> Translator get the Raw to translated text
--> Typesetter get the translate text to insert to Raw
+-> Get the Raw from Raw provider
+-> Cleaner begin to edit the scanned pages to improve picture quality, also generally remove the original text
+-> Often simultaneously with the cleaners, translator translating all dialogue, generally compiled into a text file
+-> Typesetter collects the translated script
 -> Back to Translator or someone to double-check (if any)
 
 Drawbacks that I want ot improve from Tranditional:
