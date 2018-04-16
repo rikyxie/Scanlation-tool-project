@@ -37,12 +37,13 @@ Tranditional Scanlation Process:
 -> Get the Raw from Raw provider
 -> Cleaner begin to edit the scanned pages to improve picture quality, also generally remove the original text
 -> Often simultaneously with the cleaners, translator translating all dialogue, generally compiled into a text file
--> Typesetter collects the translated script
--> Back to Translator or someone to double-check (if any)
+-> Typesetter collects the translated script, combines the two into a digitized manga chapter with translated dialogue
+-> Quality-check (if any)
 
 Drawbacks that I want ot improve from Tranditional:
-1. When Typesetter get translated text, need to know the matching area to insert
-2.
+1. Typesetter need specific indication from translator that where the text should put, since they are using different software
+2. Typesetter usually use Photoshop to get the work done for indiviual page 
+3. If quality-check finds issue, may need to re-do the whole page
 
 
 Process of propose usage of project:
@@ -66,4 +67,4 @@ Design ideas:
 
 Drawbacks:
 1. Since project don't save image, won't know if the import image correc or not
-2. Same image with different size (or different scan resource), will not fit in to translation info
+2. Even for same page, if from different source with different size (or different scan resource), will not fit in to translation info
