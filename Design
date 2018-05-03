@@ -36,7 +36,7 @@ https://github.com/alessandrofrancesconi/gimp-plugin-bimp/releases
 Tranditional Scanlation Process:
 -> Get the Raw from Raw provider
 -> Cleaner begin to edit the scanned pages to improve picture quality, also generally remove the original text
--> Often simultaneously with the cleaners, translator translating all dialogue, generally compiled into a text file
+-> Often simultaneously with the cleaners, translator translating all dialogue, generally compiled into a text file, then translation Quality-check
 -> Typesetter collects the translated script, combines the two into a digitized manga chapter with translated dialogue
 -> Quality-check (if any)
 
