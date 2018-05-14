@@ -29,8 +29,11 @@ https://mymemory.translated.net/
 OCR Engine
 https://www.google.com/search?q=ocr+engines&oq=ocr+en&aqs=chrome.1.69i57j0l5.2483j0j7&sourceid=chrome&ie=UTF-8
 
-BIMP - example of GIMP plugin
+BIMP - example of GIMP plugin, but need update to work at 2.10
 https://github.com/alessandrofrancesconi/gimp-plugin-bimp/releases
+
+Other example of GIMP plugin, which updated at work at 2.10
+http://gmic.eu/gimp.shtml
 
 Other Chinese developer's work
 https://github.com/LabelPlus/LabelPlus
